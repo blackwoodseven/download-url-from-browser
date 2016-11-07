@@ -1,0 +1,26 @@
+{
+  "name": "download-url-from-browser",
+  "version": "0.0.1",
+  "description": "Download a file in a URL from the browser",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackwoodseven/download-url-from-browser.git"
+  },
+  "keywords": [
+    "download",
+    "browser",
+    "url"
+  ],
+  "author": "Blackwood Seven devs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackwoodseven/download-url-from-browser/issues"
+  },
+  "homepage": "https://github.com/blackwoodseven/download-url-from-browser#readme"
+}
